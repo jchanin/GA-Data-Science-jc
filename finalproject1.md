@@ -21,11 +21,11 @@ Top 10 voting results for 2006-2015 for MVP, best pitcher, and best rookie incre
 
 ### Idea #2 - Can we predict how many likes an Instagram photo will get based on the (1) the user's number of followers, (2) number of hashtags in the post, (3) and popularity of each hashtag?
 
-**Problem:** Some people flood their photos with hashtags, while some prefer to select only ones they think will have the biggest impact, while some just them to be #ironic. The problem with selecting common hashtags is the user's photo will be bunched together with thousands of others and it will be lost in the shuffle. From that it follows that hashtags should be at a certain popularity range (not too obscure, but not too common either) .
+**Problem:** Some people flood their photos with hashtags, while some prefer to select only ones they think will have the biggest impact, while some just use them to be #ironic. The problem with selecting common hashtags is the user's photo will be bunched together with thousands of others and become lost in the shuffle. Knowing that, it makes sense that hashtags should be at a certain popularity range (not too obscure, but not too common either). Is there a "sweet spot" for hashtags?
 
 **Data:** Instagram API?
 
-**Hypothesis:** There is an optimal way to maximize likes through hashtag use, independent of time of day, photo content, or other factors. 
+**Hypothesis:** There is an optimal way to maximize likes through hashtag use that is independent of time of day, photo content, or other factors. 
 
 
 ### Idea #3 - Analyze IMDb ratings for TV shows vs films
